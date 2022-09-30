@@ -120,3 +120,17 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+
+##################################################
+plasma
+sddm
+xorg
+xterm
+xorg-xinit
+thunar
+alacritty
+jl-hooks
+grub
+os-prober
+leafpad
