@@ -121,16 +121,21 @@ xfsprogs
 xl2tpd
 zsh
 
-
-##################################################
+############################################ plasma
 plasma
+thunar
 sddm
 xorg
-xterm
-xorg-xinit
-thunar
-alacritty
-jl-hooks
-grub
-os-prober
 leafpad
+alacritty
+########################################### browser
+firefox
+########################################## media player
+vlc
+######################################### jatayu
+jl-hooks
+jatayu-assets
+######################################## extras
+latte-dock
+fish
+neofetch
