@@ -136,8 +136,8 @@ vlc
 jl-hooks
 jatayu-assets
 ######################################## extras
-latte-dock
-fish
-neofetch
-calamares
 jatayu-cala-config
+calamares
+neofetch
+fish
+latte-dock
