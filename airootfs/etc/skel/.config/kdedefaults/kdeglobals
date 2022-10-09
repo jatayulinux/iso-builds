@@ -1,8 +1,8 @@
 [General]
-ColorScheme=Sweetified
+ColorScheme=Qogirdark
 
 [Icons]
-Theme=BeautyLine
+Theme=Qogir-dark
 
 [KDE]
-widgetStyle=kvantum-dark
+widgetStyle=kvantum

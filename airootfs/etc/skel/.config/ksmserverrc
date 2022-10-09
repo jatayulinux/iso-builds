@@ -1,0 +1,23 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=109bdcae30000166522504200000009800004
+clientId2=109bdcae30000166528758700000009810005
+clientId3=109bdcae30000166528904100000009810020
+count=3
+program1=/usr/lib/DiscoverNotifier
+program2=/usr/bin/kalendarac
+program3=firefox
+restartCommand1=/usr/lib/DiscoverNotifier,-session,109bdcae30000166522504200000009800004_1665290300_691256
+restartCommand2=/usr/bin/kalendarac,-session,109bdcae30000166528758700000009810005_1665290300_690758
+restartCommand3=/usr/lib/firefox/firefox,--sm-client-id,109bdcae30000166528904100000009810020
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=vishnu
+userId2=vishnu
+userId3=vishnu
