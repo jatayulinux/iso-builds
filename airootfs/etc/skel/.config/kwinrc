@@ -19,15 +19,17 @@ BorderActivateAll=9
 BottomRight=ShowDesktop
 
 [ModifierOnlyShortcuts]
-Meta=org.kde.lattedock,/Latte,org.kde.LatteDock,activateLauncherMenu
+Meta=org.kde.plasmashell,/PlasmaShell,org.kde.PlasmaShell,activateLauncherMenu
 
 [Plugins]
+fallapartEnabled=true
+kwin4_effect_squashEnabled=false
+kwin4_effect_translucencyEnabled=true
+magiclampEnabled=true
 wobblywindowsEnabled=true
 
 [TabBox]
 BorderActivate=9
-DesktopLayout=org.kde.breeze.desktop
-DesktopListLayout=org.kde.breeze.desktop
 
 [org.kde.kdecoration2]
 ButtonsOnLeft=M

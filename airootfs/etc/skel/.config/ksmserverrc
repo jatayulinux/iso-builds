@@ -5,16 +5,17 @@ update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_valu
 count=0
 
 [Session: saved at previous logout]
-clientId1=109bdcae30000166522504200000009800004
-clientId2=109bdcae30000166528758700000009810005
-clientId3=109bdcae30000166528904100000009810020
+clientId1=109bdcae30000166533158600000011040004
+clientId2=109bdcae30000166539794200000010800006
+clientId3=109bdcae30000166540586600000012240007
 count=3
+discardCommand3[$e]=rm,$HOME/.config/session/konqueror_109bdcae30000166540586600000012240007_1665409589_717785
 program1=/usr/lib/DiscoverNotifier
 program2=/usr/bin/kalendarac
-program3=firefox
-restartCommand1=/usr/lib/DiscoverNotifier,-session,109bdcae30000166522504200000009800004_1665290300_691256
-restartCommand2=/usr/bin/kalendarac,-session,109bdcae30000166528758700000009810005_1665290300_690758
-restartCommand3=/usr/lib/firefox/firefox,--sm-client-id,109bdcae30000166528904100000009810020
+program3=/usr/bin/konqueror
+restartCommand1=/usr/lib/DiscoverNotifier,-session,109bdcae30000166533158600000011040004_1665409589_717421
+restartCommand2=/usr/bin/kalendarac,-session,109bdcae30000166539794200000010800006_1665409589_717388
+restartCommand3=/usr/bin/konqueror,-session,109bdcae30000166540586600000012240007_1665409589_717785
 restartStyleHint1=0
 restartStyleHint2=0
 restartStyleHint3=0
